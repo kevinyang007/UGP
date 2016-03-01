@@ -112,7 +112,7 @@ imgSets = partition(imgSets, 30, 'randomize');
 [trainingSets, validationSets] = partition(imgSets, 0.3, 'randomize');
 bag = bagOfFeatures(trainingSets);
 opts = templateSVM('BoxConstraint', 1.1, 'KernelFunction', 'gaussian');
-categoryClassifier = trainImageCategoryClassifier(imgSets, bag, 'LearnerOptions', opts);
+categoryClassifier = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts);
 confMatrix = evaluate(categoryClassifier, validationSets)
 
 % Compute average accuracy
