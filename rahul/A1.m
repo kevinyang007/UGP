@@ -1,3 +1,4 @@
+%extracting images
 imgSets = [imageSet('/home/cse/101_ObjectCategories/accordion'),...
 imageSet('/home/cse/101_ObjectCategories/airplanes'),...
 imageSet('/home/cse/101_ObjectCategories/anchor'),...
@@ -105,23 +106,57 @@ imageSet('/home/cse/101_ObjectCategories/yin_yang')];
 minSetCount = min([imgSets.Count]); % determine the smallest amount of images in a category
 
 % Use partition method to trim the set.
-imgSets = partition(imgSets, 30, 'randomize');
+imgSets = partition(imgSets, 20, 'randomize');
 
 % Notice that each set now has exactly the same number of images.
 [imgSets.Count]
-[trainingSets, validationSets] = partition(imgSets, 0.9, 'randomize');
+[trainingSets, validationSets] = partition(imgSets, 0.7, 'randomize');
 bag = bagOfFeatures(trainingSets);
-opts1 = templateSVM('BoxConstraint', 1.1, 'KernelFunction', 'gaussian');
-categoryClassifier1 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts);
+
+%SVM parameters and kernel setting
+opts1 = templateSVM('BoxConstraint', 1, 'KernelFunction', 'gaussian');
+categoryClassifier1 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts1);
 confMatrix1 = evaluate(categoryClassifier1, validationSets);
-opts2 = templateSVM('BoxConstraint', 1.1, 'KernelFunction', 'linear');
-categoryClassifier2 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts);
+
+opts2 = templateSVM('BoxConstraint', 2, 'KernelFunction', 'gaussian');
+categoryClassifier2 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts2);
 confMatrix2 = evaluate(categoryClassifier2, validationSets);
-opts3 = templateSVM('BoxConstraint', 1.1, 'KernelFunction', 'polynomial');
-categoryClassifier3 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts);
+
+opts3 = templateSVM('BoxConstraint', 3, 'KernelFunction', 'gaussian');
+categoryClassifier3 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts3);
 confMatrix3 = evaluate(categoryClassifier3, validationSets);
+
+opts4 = templateSVM('BoxConstraint', 4, 'KernelFunction','gaussian');
+categoryClassifier4 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts4);
+confMatrix4 = evaluate(categoryClassifier4, validationSets);
+
+opts5 = templateSVM('BoxConstraint', 5, 'KernelFunction', 'gaussian');
+categoryClassifier5 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts5);
+confMatrix5 = evaluate(categoryClassifier5, validationSets);
+
+opts6 = templateSVM('BoxConstraint', 0.6, 'KernelFunction', 'gaussian');
+categoryClassifier6 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts6);
+confMatrix6 = evaluate(categoryClassifier6, validationSets);
+
+opts7 = templateSVM('BoxConstraint', 0.1, 'KernelFunction', 'gaussian');
+categoryClassifier7 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts7);
+confMatrix7 = evaluate(categoryClassifier7, validationSets);
+
+opts8 = templateSVM('BoxConstraint', 10, 'KernelFunction', 'gaussian');
+categoryClassifier8 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts8);
+confMatrix8 = evaluate(categoryClassifier8, validationSets);
+
+opts9 = templateSVM('BoxConstraint', 15, 'KernelFunction', 'gaussian');
+categoryClassifier9 = trainImageCategoryClassifier(trainingSets, bag, 'LearnerOptions', opts9);
+confMatrix9 = evaluate(categoryClassifier9, validationSets);
 
 % Compute average accuracy
 mean(diag(confMatrix1))
 mean(diag(confMatrix2))
 mean(diag(confMatrix3))
+mean(diag(confMatrix4))
+mean(diag(confMatrix5))
+mean(diag(confMatrix6))
+mean(diag(confMatrix7))
+mean(diag(confMatrix8))
+mean(diag(confMatrix9))
