@@ -1,0 +1,1177 @@
+[
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_006.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_007.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_009.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_020.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_004.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_018.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_011.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_004.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_010.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_005.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_017.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_003.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_003.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_002.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_019.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_006.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_019.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_008.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_001.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_001.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_012.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_012.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_014.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_005.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_007.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_016.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_015.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_010.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_011.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_013.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_013.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_009.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_021.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_002.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_000.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_015.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_008.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_016.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_018.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_000.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_014.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_017.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_006.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_007.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_009.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_020.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_004.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_018.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_011.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_004.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_010.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_005.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_017.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_003.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_003.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_002.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_019.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_006.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_019.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_008.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_001.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_001.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_012.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_012.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_014.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_005.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_007.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_016.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_015.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_010.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_011.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_013.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_013.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_009.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_021.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_002.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_000.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_015.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_008.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/datasample1_mov_0_016.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_018.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_000.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_014.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+},
+{
+"class":"image",
+"filename":"images/input_video_sample1_mov_0_017.bmp",
+"annotations": [
+{
+"class": "initialized",
+"height": 75.0,
+"type":"rect",
+"width": 40.0,
+"y": 105.0,
+"x": 346.0
+}
+]
+}]
